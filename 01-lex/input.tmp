@@ -1,0 +1,13 @@
+#include <stdio.h>
+
+int main () {
+	
+	
+	printf("//This is not a comment.\n"); 
+	int a, b, c;
+	b = 3;
+	c = 3;
+	a = b + c;
+
+	return 0;
+}
