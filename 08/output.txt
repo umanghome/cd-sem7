@@ -1,0 +1,8 @@
+1. #include <stdio.h>
+2. int main () {
+3. 	// This is a single-line comment.
+4. 	/* This is a
+5. 		multiline comment */
+6. 	printf(“Hello, world!\n”); // This is another comment.
+7. 	return 0;
+8. }
