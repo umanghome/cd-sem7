@@ -1,0 +1,15 @@
+2
+4
+S
+A
+a
+b
+c
+d
+1
+cAd
+2
+ab
+a
+S
+cabd
