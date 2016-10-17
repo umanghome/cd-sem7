@@ -1,0 +1,6 @@
+VAR A
+VAR B
+STO A 5
+STO B 6
+ADD A B
+PRI A

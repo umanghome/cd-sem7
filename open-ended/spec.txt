@@ -1,0 +1,19 @@
+List of commands:
+
+VAR <VAR_NAME>
+Creates a variable with name <VAR_NAME>
+
+STO <VAR_NAME> <NUM>
+Stores value of <NUM> in <VAR_NAME>
+
+PRI <VAR or NUM>
+Prints the value of <VAR or NUM> specified
+
+ADD <VAR> <VAR or NUM>
+Adds <VAR> and <VAR or NUM>, and stores it into <VAR>
+
+SUB <VAR> <VAR or NUM>
+Subtracts <VAR> and <VAR or NUM>, and stores it into <VAR>
+
+MUL <VAR> <VAR or NUM>
+Subtracts <VAR> and <VAR or NUM>, and stores it into <VAR>
